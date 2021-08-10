@@ -1,5 +1,5 @@
 name: GitHub Actions Build and Deploy
-on: repository_dispatch_oec
+on: repository_dispatch
 
 jobs:
   build-and-deploy:
